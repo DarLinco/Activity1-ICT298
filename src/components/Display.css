@@ -1,0 +1,9 @@
+.content{
+  position: absolute;
+  top: 100px;
+  left: 0;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  text-align: left;
+  padding: 1%;
+}

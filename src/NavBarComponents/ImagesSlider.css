@@ -1,0 +1,12 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ 
+}
+
+.format{
+    width: 70vh;
+    height: 50vh;
+}

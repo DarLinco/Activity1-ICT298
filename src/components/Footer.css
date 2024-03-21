@@ -1,0 +1,11 @@
+.footer{
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(236, 235, 238);
+    color: rgb(18, 17, 17);
+    padding: 2%;
+    align-self: baseline;
+}
